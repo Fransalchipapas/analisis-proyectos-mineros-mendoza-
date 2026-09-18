@@ -67,3 +67,32 @@ proyecto_proyectos_mineros_mendoza/
 6. Clasificación.
 7. Clustering.
 8. Evaluación y conclusiones.
+
+## Creamos el repositorio en GitHub
+```text
+Empezamos creando el repositorio:                      git init
+Guardamos la primera version en ese repositorio local: git add .
+                                                       git commit -m "Inicializar proyecto"
+Vamos a GitHub y creamos el repositorio nuevo:         (https://github.com/Fransalchipapas/analisis-proyectos-mineros-mendoza-.git)
+Conectamos el repositorio desde la terminal:           git remote add origin https://github.com/Fransalchipapas/analisis-proyectos-mineros-mendoza-.git
+Renombramos la rama actual del main                    git branch -M main 
+Subimos los comits locales a GitHub                    git push -u origin main
+```
+## Estructura simple del proyecto
+| notebooks/             |           
+|------------------------|          
+| Exploración            |
+| Experimentos           |
+| Graficos               |
+| Comparación de modelos |
+| Interpretación         |
+         |
+         |
+        \/
+| src/        |
+|-------------|
+| carga.py    |
+| limpieza.py |
+| features.py |
+| models.py   |
+|utilidades.py|

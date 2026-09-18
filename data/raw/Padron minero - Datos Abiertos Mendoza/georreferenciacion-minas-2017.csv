@@ -1,0 +1,45 @@
+numero_identificacion_mina;numero_distrito_minero;nombre_distrito_minero;nombre_departamento_minero;provincia_minera;expediente_mina;nombre_mina;concesionario_mina;mineral_extraccion_mina;categoria;pert;estado_explotacion;mensura_mina
+1;1;El Sosneado;San Rafael;Mendoza;3451-N-1943;El Cóndor;Cruz del Sur y Cía. SRL;carbón;1;3;vigente;SI
+2;1;El Sosneado;San Rafael;Mendoza;3208-F-2007;Volcán Overo N° 2;Fugazzotto, José Arturo;azufre;1;10;vigente;SI
+6;1;El Sosneado;San Rafael;Mendoza;1936-H-1912;Volcán Overo;Fugazzotto, José Arturo;azufre;1;7;vigente;SI
+7;1;El Sosneado;San Rafael;Mendoza;2199-M-1901;Los Buitres;Grecoil y CIA SA;petróleo;1;5;vigente;SI
+13;1;El Sosneado;San Rafael;Mendoza;4249-C-1941;General San Martín;El Sosneado Cía. Arg.de Petróleo;petróleo;1;5;vigente;SI
+14;1;El Sosneado;San Rafael;Mendoza;1490-P-1920;San Pedro;Lombardo F y Oro Martin;brea petrolífera;1;6;vigente;SI
+15;1;El Sosneado;San Rafael;Mendoza;883-H-1943;San Pablo;;brea petrolífera;1;7;vacante;SI
+16;1;El Sosneado;San Rafael;Mendoza;153-Y-1983;Cerro del alquitrán;Grecoil y CIA SA;petróleo;1;5;vigente;SI
+17;1;El Sosneado;San Rafael;Mendoza;153-Y-1983;Baku;Grecoil y CIA SA;petróleo;1;5;vigente;SI
+18;1;El Sosneado;San Rafael;Mendoza;63-M-1905;La Paloma;Grecoil y CIA SA;petróleo;1;5;vigente;SI
+20;1;El Sosneado;San Rafael;Mendoza;383-H-1947;Falucho;Pott Godoy, M. y Otros;brea petrolífera;1;3;vigente;SI
+2635;1;El Sosneado;San Rafael;Mendoza;3520-V-2010;Beatriz;;cobre disem.;1;35;vacante;NO
+2588;1;El Sosneado;San Rafael;Mendoza;2104-C-1999   ;Chipre;;cobre disem.;1;1;vacante;NO
+2593;1;El Sosneado;San Rafael;Mendoza;2319-D-2002;Tres Lagunas;;oro, plata, cobre disem.;1;1;vacante;NO
+2648;1;El Sosneado;San Rafael;Mendoza;2100-C-1999;Atahualpa;;cobre disem.;1;1;vacante;NO
+2625;1;El Sosneado;San Rafael;Mendoza;2001-C-1998;Morgana;;cobre disem.;1;15;vacante;NO
+2737;1;El Sosneado;San Rafael;Mendoza;1041-G-1995;Marta 5;;cobre disem.;1;1;vacante;NO
+2738;1;El Sosneado;San Rafael;Mendoza;2171-C-2000;La Negra;;cobre disem.;1;1;vacante;NO
+2741;1;El Sosneado;San Rafael;Mendoza;1029-G-1995;Marta 4;Concina Raul Ernesto;cobre disem.;1;1;vigente;NO
+2854;1;El Sosneado;San Rafael;Mendoza;2877-M-2005;Oikos;;cobre disem.;1;35;vacante;NO
+2856;1;El Sosneado;San Rafael;Mendoza;2547-M-2003;Nueva Frontera;;cobre, oro disem.;1;1;vacante;NO
+2878;1;El Sosneado;San Rafael;Mendoza;2878-M-2005;Barroso;Minera Agaucu SA;cobre disem.;1;1;vigente;NO
+32;2;Laguna Blanca;Malargue;Mendoza;303-M-1937;El Burrero (P 1);I.E.C.S.A. S.A.;cobre;1;1;vigente;SI
+34;2;Laguna Blanca;Malargue;Mendoza;578-I-1962;Las Choicas (P 2/7);Minera Geometales S.A.;cobre;1;7;vigente;SI
+35;2;Laguna Blanca;Malargue;Mendoza;3286-M-2007;La Matilde;Alvarez, Alberto y Oro Martín;petróleo;1;7;vigente;SI
+37;2;Laguna Blanca;Malargue;Mendoza;2628-A-2004;Hierro Indio;Hierro Indio SA;hierro;1;3;vigente;SI
+38;2;Laguna Blanca;Malargue;Mendoza;579-P-1962;El Burrero (P 2/5);Minera Geometales S.A.;cobre;1;4;vigente;SI
+40;2;Laguna Blanca;Malargue;Mendoza;407-R-1994;Aguila Primera;Minera Geometales S.A.;cobre;1;2;vigente;SI
+41;2;Laguna Blanca;Malargue;Mendoza;247-R-1993;Adriana;Minera Geometales S.A.;cobre;1;6;vigente;SI
+42;2;Laguna Blanca;Malargue;Mendoza;110-R-1994;Clotilde;Desarrollo de Prospectos Mineros SA;cobre;1;6;vigente;SI
+43;2;Laguna Blanca;Malargue;Mendoza;109-R-1994;Villagra;Desarrollo de Prospectos Mineros SA;cobre;1;7;vigente;SI
+44;2;Laguna Blanca;Malargue;Mendoza;315-P-1994;Amelia;Minera Geometales S.A.;cobre;1;6;vigente;SI
+45;2;Laguna Blanca;Malargue;Mendoza;3504-D-2010;El Guanaco;Dumit Simeram;cobre;1;12;vigente;SI
+48;2;Laguna Blanca;Malargue;Mendoza;449-P-1994;Cobrecito;Minera Geometales S.A.;cobre;1;5;vigente;SI
+49;2;Laguna Blanca;Malargue;Mendoza;184-T-1908;Juanita;;cobre;1;6;vacante;
+50;2;Laguna Blanca;Malargue;Mendoza;241-T-1991;Hilda;Tarquini, Nello;cobre;1;4;vigente;
+51;2;Laguna Blanca;Malargue;Mendoza;1857-L-1998;El Coloso;Minera Geometales S.A.;cobre;1;6;vigente;
+495;2;Laguna Blanca;Malargue;Mendoza;3201-G-2007;Cerro de la Laguna;Fugazzotto, José Arturo;carbón;1;2;vigente;
+855;2;Laguna Blanca;Malargue;Mendoza;255-C-1958;Atlas II;Fugazzotto, José Arturo;manganeso;1;5;vigente;
+1176;2;Laguna Blanca;Malargue;Mendoza;313-P-1994;Bursuno;Minera Geometales S.A.;cobre;1;1;vigente;
+1218;2;Laguna Blanca;Malargue;Mendoza;3215-G-2007;Atlas I;Fugazzotto, José Arturo;hierro;1;6;vigente;
+1360;2;Laguna Blanca;Malargue;Mendoza;186-I-1965;Rojino;La Elcha Minera Industrial SA;baritina;2;2;vigente;
+1386;2;Laguna Blanca;Malargue;Mendoza;316-P-1994;Fortuna;;cobre;1;3;vacante;
+2085;2;Laguna Blanca;Malargue;Mendoza;165-L-1977;Don Luis;La Elcha Minera Industrial SA;baritina;2;3;vigente;

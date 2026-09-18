@@ -1,0 +1,1001 @@
+N°;NOMBRE;LATITUD;LONGITUD;MINERAL PRINCIPAL;PROVINCIA;ESTADO;OPERADOR
+1;Juan Pablo II;-27,25156 ;-65,63062 ;Arena;Tucuman;Producción;Nacul Jorge Pablo
+2;Papa Fco;-27,27566 ;-65,58597 ;Arena;Tucuman;Producción;Nacul Jorge Pablo
+3;Aridos del Sali;-26,78038 ;-65,15973 ;Arena;Tucuman;Producción;Aridos del Sali
+4;Coop. Trab. Alderetes;-26,75303 ;-65,14954 ;Arena;Tucuman;Producción;Coop. Trab. Alderetes
+5;Los Porceles;-26,93632 ;-65,21565 ;Arena;Tucuman;Producción;Cuevas Juan José
+6;San Andrés;-26,89531 ;-65,20611 ;Arena;Tucuman;Producción;Cuevas Juan José
+7;Galindo Const.;-26,69531 ;-65,07574 ;Arena;Tucuman;Producción;Galindo Constr. S.R.L.
+8;Munic. Monteros;-27,12946 ;-65,51311 ;Arena;Tucuman;Producción;Munic. Monteros
+9;La Chimbera;-26,96399 ;-65,38311 ;Arena;Tucuman;Producción;Vicente Ariel Avila
+10;Helpa;-26,73177 ;-65,11862 ;Arena;Tucuman;Producción;Helpa S.A.
+11;Munic. Las Talitas;-26,76532 ;-65,16391 ;Arena;Tucuman;Producción;Munic. Las Talitas
+12;Lules Norte;-26,91373 ;-65,33716 ;Arena;Tucuman;Producción;Munic. Lules
+13;La Bolsa;-26,91939 ;-65,30303 ;Arena;Tucuman;Producción;Munic. Lules
+14;San Rafael;-26,95806 ;-65,38976 ;Arena;Tucuman;Producción;Munic. Lules
+15;Gael;-27,63859 ;-65,65443 ;Arena;Tucuman;Producción;Angelino Arroyo
+16;Canseco;-26,62011 ;-65,37416 ;Arena;Tucuman;Producción;Canseco Oscar
+17;Elias DG - Zerda;-27,11159 ;-65,52974 ;Arena;Tucuman;Producción;Elias Daniel Gustavo
+18;Elias MD - Mandolo;-27,17271 ;-65,58724 ;Arena;Tucuman;Producción;Elias Mario Dante
+19;Elias MD - Romano;-27,14958 ;-65,49582 ;Arena;Tucuman;Producción;Elias Mario Dante
+20;González ME - Las Tipas;-26,23860 ;-65,50549 ;Arena;Tucuman;Producción;González, Ma. Carmen
+21;El Bollero;-26,24310 ;-65,25034 ;Arena;Tucuman;Producción;González, Ma. Carmen
+22;La Bolsa;-26,91603 ;-65,32342 ;Arena;Tucuman;Producción;Tradeco S.R.L
+23;La Blanquita;-26,74295 ;-65,12919 ;Arena;Tucuman;Producción;Fernando L. López
+24;La Granja - La Aguadita;-26,74205 ;-65,15693 ;Arena;Tucuman;Producción;Tradeco S.R.L
+25;El Arenal;-26,96659 ;-65,22619 ;Arena;Tucuman;Producción;El Arenal S.H.
+26;Limbadi;-26,68775 ;-65,17660 ;Arena;Tucuman;Producción;Limbadi S.R.L.
+27;Limbadi;-26,55404 ;-65,25407 ;Arena;Tucuman;Producción;Limbadi S.R.L.
+28;Hernandez;-27,26445 ;-65,60661 ;Arena;Tucuman;Producción;Hernández Francisco
+29;Hernandez;-27,31467 ;-65,68843 ;Arena;Tucuman;Producción;Hernández Francisco
+30;SD Final Overo Pozo;-26,83044 ;-64,86928 ;Arena;Tucuman;Producción;Perfiltra S.A.
+31;Rojano;-27,26691 ;-65,58953 ;Arena;Tucuman;Producción;Rojano Miguel Angel e Hijos SRL
+32;Rojano;-27,32836 ;-65,62123 ;Arena;Tucuman;Producción;Rojano Miguel Angel e Hijos SRL
+33;Rojano;-27,36386 ;-65,83412 ;Arena;Tucuman;Producción;Rojano Miguel Angel e Hijos SRL
+34;CCL - Lules;-26,92034 ;-65,31313 ;Arena;Tucuman;Producción;CCL SRL
+35;Cantera Finar;-27,02648 ;-65,48985 ;Arena;Tucuman;Producción;Finar S.A.
+36;Min Alumbrera;-27,37078 ;-65,88620 ;Arena;Tucuman;Producción;Min Alumbrera LTD
+37;Calleri;-26,91901 ;-65,31770 ;Arena;Tucuman;Producción;Calleri Sebastián Constr
+38;Martin;-26,88078 ;-65,70621 ;Arena;Tucuman;Producción;Flores Martin César
+39;Don Felipe;-26,88420 ;-65,70496 ;Arena;Tucuman;Producción;Arnedo Gillermo Antonio
+40;El Pedregal;-26,88566 ;-65,70452 ;Arena;Tucuman;Producción;Olima Luis Héctor
+41;El Paraiso;-26,88746 ;-65,70379 ;Arena;Tucuman;Producción;Olima Maximo Antonio
+42;El Cóndor;-26,88871 ;-65,72033 ;Arena;Tucuman;Producción;Condori Néstor Fernando
+43;Del Pilar;-26,88944 ;-65,70376 ;Arena;Tucuman;Producción;Gómez Néstor Nicolás
+44;Lalo;-26,89774 ;-65,70211 ;Arena;Tucuman;Producción;Medina Benito Eduardo
+45;Sema;-27,05593 ;-65,47741 ;Arena;Tucuman;Producción;Sema Roque Pedro Augusto
+46;San Jose;-26,99389 ;-65,24943 ;Arena;Tucuman;Producción;Jose Matias Soria
+47;Miralejos;-26,97870 ;-65,24023 ;Arena;Tucuman;Producción;Canteras y Transporte López SRL
+48;Soles;-26,97729 ;-65,23628 ;Arena;Tucuman;Producción;Cantera Miralejos SRL
+49;Di Bacco lI;-26,62923 ;-65,35576 ;Arena;Tucuman;Producción;Di Bacco & cia SA
+50;Munic. Bella Vista;-26,96767 ;-65,37591 ;Arena;Tucuman;Producción;Munic. Bella Vista
+51;Diaz - Tipas;-26,22451 ;-65,49463 ;Arena;Tucuman;Producción;Elvio Andrés Diaz
+52;El Sur;-27,04343 ;-65,25877 ;Arena;Tucuman;Producción;Jiménez Mauro Sebastian
+53;Páez;-27,02883 ;-65,24296 ;Arena;Tucuman;Producción;Páez Valeria Mabel
+54;La Bolsa l;-26,93924 ;-65,31697 ;Arena;Tucuman;Producción;Luca Paulino
+55;Rocha Rio Colorado;-26,93335 ;-65,21299 ;Arena;Tucuman;Producción;Rocha Andrea Beatríz
+56;Caspichango;-27,07469 ;-65,48500 ;Arena;Tucuman;Producción;Pedro Pascual Garez (Jaidar Maria)
+57;Vargas;-27,04878 ;-65,26281 ;Arena;Tucuman;Producción;Vargas Rubén
+58;Tradeco SRL - Hormeco SRL;-26,53403 ;-65,30724 ;Arena;Tucuman;Producción;Plano Julio
+59;Tucuman Aridos;-26,78754 ;-65,15656 ;Arena;Tucuman;Producción;Tucuman Aridos SH
+60;La Blanquita ll;-26,74295 ;-65,12919 ;Arena;Tucuman;Producción;López Fornando Luis
+61;Cuevas;-26,93169 ;-65,21379 ;Arena;Tucuman;Producción;Cuevas
+62;Vipos;-26,47856 ;-65,31003 ;Arena;Tucuman;Producción;D'Andrea Fernando E.
+63;Las Tipas;-26,65569 ;-65,39227 ;Arena;Tucuman;Producción;Julio Plano
+64;Cañas y Semilla;-26,94536 ;-65,20979 ;Arena;Tucuman;Producción;Isas Carlos - Cañas y Semilla
+65;Aridos San Gabriel;-26,98149 ;-65,23310 ;Arena;Tucuman;Producción;Jacoub Omar Angel
+66;Ova;-26,74930 ;-65,29650 ;Arena;Tucuman;Producción;OVA SRL
+67;Ova;-26,62786 ;-65,05164 ;Arena;Tucuman;Producción;OVA SRL
+68;La Victoria;-27,02629 ;-65,41626 ;Arena;Tucuman;Producción;Haro Matias Nicolás
+69;La Tala;-27,02282 ;-65,26765 ;Arena;Tucuman;Producción;Zivillica Marcelo A.
+70;Ex cantera - Relleno;-26,78416 ;-65,16096 ;Arena;Tucuman;Producción;Aridos del Salí SRL
+71;San Andrés;-26,91218 ;-65,21171 ;Arena;Tucuman;Producción;Aridos del Salí SRL
+72;Finca Moyano;-26,71778 ;-65,27874 ;Arena;Tucuman;Producción;Moyano Erbetta Federico
+73;El Ejecutivo;-27,02274 ;-65,42714 ;Arena;Tucuman;Producción;El Ejecutivo S.R.L.
+74;Jerico;-27,26294 ;-65,61188 ;Arena;Tucuman;Producción;Jerico SRL
+75;La Candelaria;-27,32778 ;-65,63721 ;Arena;Tucuman;Producción;Jerico SRL
+76;San Cayetano;-26,87289 ;-65,70548 ;Arena;Tucuman;Producción;Munic. Tafí del Valle
+77;Costa I;-26,86018 ;-65,67111 ;Arena;Tucuman;Producción;Munic. Tafí del Valle
+78;Com. San Pablo;-26,91175 ;-65,34628 ;Arena;Tucuman;Producción;Com San Pablo - Va. Nougués
+79;La Cañada;-26,65958 ;-65,42187 ;Arena;Tucuman;Producción;Sáez Servicios SRL
+80;Las Marias;-27,71742 ;-65,58727 ;Arena;Tucuman;Producción;Castro Maria Ines
+81;El Naranjo Sur;-26,66926 ;-65,06519 ;Arena;Tucuman;Producción;Sandoval Cabrera Norma Estela
+82;El Cacique;-26,71567 ;-65,09114 ;Arena;Tucuman;Producción;El Cacique SRL
+83;San Agustin;-26,81282 ;-65,33170 ;Arena;Tucuman;Producción;Castelluccio Gerardo
+84;Don Honorio;-26,68379 ;-65,07312 ;Arena;Tucuman;Producción;Benito Mercedes Beatriz
+85;Munic. Tafi Viejo;-26,73303 ;-65,28827 ;Arena;Tucuman;Producción;Munic. Tafí Viejo
+86;Munic. Y. Buena;-26,79871 ;-65,32865 ;Arena;Tucuman;Producción;Munic. Yerba Buena
+87;Tte. Berdina;-27,04122 ;-65,48223 ;Arena;Tucuman;Producción;Mena Fernando Rafael
+88;Caspichango;-27,06316 ;-65,47907 ;Arena;Tucuman;Producción;Mena Fernando Rafael
+89;El Naranjo;-26,63974 ;-65,05472 ;Arena;Tucuman;Producción;Coop Trab Agrop del Este
+90;Ezequiel Campero;-26,69694 ;-65,27206 ;Arena;Tucuman;Producción;Vaz S.A.S.
+91;Medina;-26,54366 ;-65,02639 ;Arena;Tucuman;Producción;Leandro G. Alonso
+92;La Sala;-26,57059 ;-65,02237 ;Arena;Tucuman;Producción;Coop Trab Agrop del Este
+93;San Nicolas;-26,52565 ;-64,87948 ;Yeso;Tucuman;Producción;Cielorraso del Norte SRL
+94;Ceramica Marcos Paz;-26,75424 ;-65,08551 ;Arcillas;Tucuman;Producción;Cerámica M. Paz S.R.L.
+95;Ingrid-Astrid;-26,71401 ;-65,14790 ;Sulfato de sodio;Tucuman;Producción;INDUSTRIAS QUIMICAS Y MINERAS TIMBO SA
+96;Turbal Patagonia Sur;-54,54100 ;-67,01200 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;PAEZ, Fabio Gabriel
+97;Turbera Humus del Lago;-54,62000 ;-67,50200 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;GUEVARA Alberto Daniel
+98;Turbera Laco's;-54,51400 ;-66,92500 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;LACOVARA Jorge
+99;Turbera EDB;-54,53500 ;-66,96300 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;BATISTA LIMA, Eugelia
+100;Turbera Arak;-54,62400 ;-67,37200 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;FONMAS S.R.L.
+101;Kaiwet;-54,50300 ;-67,20600 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;SIMONETTA, Nestor
+102;Establecimiento D y A;-54,52000 ;-67,01600 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;CANETE, Ramon Antonio
+103;Agrotolhuin;-54,54500 ;-66,98100 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;PRODUCTORA COMERCIALIZADORA MARTINEZ SRL
+104;Santa Monica;-54,53900 ;-66,95500 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;BARRIA, Monica Catalina
+105;Turbera Lucas;-54,52700 ;-66,88700 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;Sucesión DOS SANTOS
+106;Terra Australis;-54,61900 ;-67,76500 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;ROIG, Claudio Eduardo
+107;Compofertil;-54,53900 ;-66,98000 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;RIVAS, Aldo Ramon
+108;Turbera La Correntina;-54,55000 ;-66,98800 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;RUIZ, Mauricio Antonio
+109;Kachem;-54,49900 ;-67,15400 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;OLDEMBURG, Ernesto Carlos
+110;Turbera Laguna Negra;-54,52600 ;-66,94900 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;OLDEMBURG, Juan Francisco
+111;Catalina II;-54,56300 ;-66,96200 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;CARDOZO, Anibal
+112;Turbera Atlantico;-54,50400 ;-67,14400 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;CARDOZO, Anibal
+113;La July;-54,53000 ;-66,99100 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;MINERA TERRAFERTIL FUEGUINA S.R.L.
+114;Turbera AMT;-54,49300 ;-67,15600 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;Sucesión DOS SANTOS
+115;Yacimiento TE-AL-EM I.C.C.;-54,50600 ;-67,15200 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;TEUBER, Danilo Fabian
+116;Turbera Valle de Beraca;-54,62700 ;-67,38400 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;AMESTOY, Horacio
+117;Turbera Transcontinental;-54,52300 ;-66,93900 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;HERRERA Hector
+118;Turbera Sphagnum Fueguina S.A.;-54,53000 ;-66,96700 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;SPHAGNUM FUEGUINA S.A.
+119;La Inesa;-54,54100 ;-67,02300 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;ROMANO, Juan Manuel
+120;Valen Martu;-54,51700 ;-66,98300 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;MINERA TERRAFERTIL FUEGUINA S.R.L.
+121;Turbera Del Sur;-54,52500 ;-66,96000 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;CARDOZO, Rafael
+122;Turbera Sara;-54,55100 ;-66,96300 ;Turba;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;ESPINOZA de M., Rosa
+123;Monte Quemado;-54,62900 ;-67,51200 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;Constructora Dos Arroyos SA
+124;LP;-54,42000 ;-67,21400 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;Lenga Patagonia SA
+125;LF 2010;-53,97800 ;-67,52400 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Evaluación económica preliminar;CAMPOS DE ALVEAR, Enrique
+126;LF 2012;-53,99300 ;-67,53900 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;;Sociedad Anónima Ganadera y Financiera Bridges & Reynolds
+127;Pioneros Fueguinos;-54,61500 ;-67,73500 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Evaluación económica preliminar;IVANDIC FIQUE, Jorge
+128;El Salvador II;-53,58500 ;-68,53200 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;FEFERBAUM, Jorge
+129;El Salvador III;-53,70200 ;-68,54600 ;Triturados pétreos;Tierra del Fuego, Antártida e Islas del Atlántico Sur;Producción;FEFERBAUM, Jorge
+130;LA NORMA;-32,86318 ;-65,65747 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+131;EL CORAJE;-32,38716 ;-65,65747 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+132;IGUAZU;-32,76074 ;-65,920641;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+133;REY DAVID;-32,36759 ;-65,555420;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+134;LA YOQUETA;-32,61169 ;-65,527089;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+135;LA PUNTILLOSA;-32,34843 ;-65,547976;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+136;LA PUNTILLOSA PONIENTE;-32,34658 ;-65,548277;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+137;VIRGEN DEL MILAGRO;-33,13653 ;-65,196792;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+138;CECER;-32,93355 ;-65,671276;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+139;LA VIQUITA;-32,85824 ;-65,110498;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+140;GENIDEY;-32,90504 ;-65,61274 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+141;JUAN BOLICHE;-32,89201 ;-65,62718 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+142;CLARY;-32,89650 ;-65,63008 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+143;INDEPENDENCIA ARGENTINA;-32,90549 ;-65,92486 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+144;SAN ELIAS;-32,85786 ;-65,12054 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+145;LA YOQUETA NORTE;-32,60655 ;-65,52414 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+146;LA IDEAL;-33,02499 ;-65,72681 ;Feldespato;San Luis;Producción;PIEDRA GRANDE S.A.M.I.C.A. y F.
+147;LOS MELLIZOS;-32,57669 ;-65,41622 ;Feldespato;San Luis;Producción;MINERA MELLIZOS BLANCO SRL
+148;CLAVELIN;-32,44352 ;-65,55657 ;Feldespato;San Luis;Mantenimiento;MINERA MELLIZOS BLANCO SRL
+149;LOS CARDENALES;-32,54971 ;-65,47477 ;Feldespato;San Luis;Mantenimiento;MINERA MELLIZOS BLANCO SRL
+150;LA IGLESIA;-32,42030 ;-65,52105 ;Feldespato;San Luis;Producción;MINERA MELLIZOS BLANCO SRL
+151;JUAN Y VICTORIA;-32,19014 ;-65,30618 ;Feldespato;San Luis;Mantenimiento;MINERA MELLIZOS BLANCO SRL
+152;LA ORQUIDEA;-33,26047 ;-65,54422 ;Cuarzo;San Luis;Producción;PIEDRAS PUNTANAS SRL
+153;LA RIPIERA;-33,26180 ;-65,54818 ;Cuarzo;San Luis;Mantenimiento;PIEDRAS PUNTANAS SRL
+154;DON PACO III;-32,71520 ;-65,51536 ;Feldespato;San Luis;Producción;MANSILLA CARLOS
+155;LA RUMARI;-32,84919 ;-65,67455 ;Feldespato;San Luis;Producción;Lara Eva Allende
+156;LEONELA;-32,89527 ;-65,83845 ;Caliza;San Luis;Producción;CEMENTOS AVELLANEDA S.A.
+157;CANTERA CEMENTOS AVELLANEDA;-32,89497 ;-66,84090 ;Caliza;San Luis;Producción;CEMENTOS AVELLANEDA S.A.
+158;CANTERA MASTER LAJA ;-33,11156 ;-65,98618 ;Piedra laja;San Luis;Producción;MASTER LAJA S.A.
+159;EL LATINO;-33,076311;-65,992506;Piedra laja;San Luis;Mantenimiento;
+160;DON FROILAN;-33,071420;-65,970029;Piedra laja;San Luis;Mantenimiento;
+161;SALINAS DEL BEBEDERO;-33,521985;-66,660393;Cloruro de sodio;San Luis;Producción;COMPAÑÍA INTRODUCTORA BUENOS AIRES S.A.
+162;CERRO LA GARRAPATA;-33,695557;-65,140115;Basalto;San Luis;Producción;BASALTO INDUSTRIAL Y COMERCIAL S.R.L.
+163;SAM TOM I;-32,990621;-65,999901;Feldespato;San Luis;Producción;ARCE JONATHAN EZEQUIEL
+164;MAXI;-33,013995;-66,852879;Yeso;San Luis;Producción;BECERRA JUAN MARCELINO
+165;LAS BISNIETAS;-32,658173;-65,692428;Granito;San Luis;Producción;MINERA DEL SALTO SRL
+166;LA UNION XXIX PARCELA 4;-33,025803;-66,870453;Yeso;San Luis;Producción;MULTIFERT S.A.
+167;SAN CARLOS PERLA GRIS DEL SALTO;-32,664271;-65,691564;Granito;San Luis;Producción;GENARO Y ANDRES DE STEFANO SACIAyG
+168;SALTO;-32,736904;-65,714980;Feldespato;San Luis;Producción;VALDEON VICTOR HUGO
+169;SINAI;-32,570495;-65,445250;Feldespato;San Luis;Producción;SUAREZ DAVID NELSON
+170;DON RODOLFO;-32,704562;-66,057889;Feldespato;San Luis;Producción;PRIETO WALTER ESTEBAN
+171;EL LLAVERO;-32,126080;-65,250229;Feldespato;San Luis;Producción;OCHOA RAUL ERNESTO
+172;MARGARITA I;-33,034461;-66,869924;Yeso;San Luis;Producción;PIZARRO JOSE ANTONIO
+173;MI ANGEL;-32,909759;-65,940316;Feldespato;San Luis;Producción;BPA ARGENTINA S.A.
+174;EL DELGADO;-32,529826;-65,415629;Feldespato;San Luis;Producción;DRYON FRANCISCO
+175;DON ESTEBAN;-32,947579;-65,956172;Feldespato;San Luis;Producción;DEHUAI GEO SUDAMERICANA S.A.
+176;LA ABUNDANCIA;-32,440401;-65,616974;Arena;San Luis;Producción;VOLADURAS SAN LUIS SRL
+177;LA LURDITA;-33,341731;-66,816696;Arena;San Luis;Producción;CASTILLO, RAFAEL RAUL
+178;LA GRUTA V;-33,631595;-65,571975;Arena;San Luis;Producción;LA GRUTA S.R.L.
+179;LOS CUATRO POZOS;-35,562182;-65,168940;Arena;San Luis;Producción;MINERIA Y SERVICIOS S.A.
+180;JUAN JOSE;-32,562784;-65,516444;Arena;San Luis;Producción;MORA RAMON ROQUE
+181;LA CUYANA;-33,214030;-66,296113;Arena;San Luis;Producción;ARENERA EL CHORRILO S.R.L.
+182;LA NEGRA;-32,845770;-66,265354;Arena;San Luis;Producción;ARENERA EL CHORRILO S.R.L.
+183;RICARDHINO;-33,393110;-67,014379;Arenas silíceas;San Luis;Producción;MARIÑELARENA RICARDO RAMON
+184;RINCON DEL VALLE ARIDOS;-33,398298;-66,989313;Arena;San Luis;Producción;PEREZ EULALIO
+185;EN CAMINO;-33,346255;-66,405974;Arena;San Luis;Producción;SE.MI.S.A.
+186;LA GRAVA;-32,927966;-66,377059;Arena;San Luis;Producción;SE.MI.S.A.
+187;DESEMBANQUE RIO NOGOLI;-32,979446;-66,425605;Arena;San Luis;Producción;SE.MI.S.A.
+188;DESEMBANQUE RIO CHORRILLO;-33,347290;-66,393068;Arena;San Luis;Producción;SE.MI.S.A.
+189;POZO ESCONDIDO;-33,366345;-66,379634;Arena;San Luis;Producción;VIDELA OSCAR ALEJANDRO
+190;LA ESPERANZA;-33,274916;-66,384195;Arena;San Luis;Producción;CONCORDIA S.R.L
+191;EL CAPRICHO;-33,109673;-65,624690;Arena;San Luis;Producción;FSG ARIDOS S.H.
+192;MIRASOL;-32,598317;-65,255571;Arena;San Luis;Producción;AGUILERA JOSE ANGEL
+193;DON OSCAR;-33,366208;-66,378540;Arena;San Luis;Producción;VIDELA PABLO DANIEL
+194;DON OSCAR II;-33,348980;-66,385550;Arena;San Luis;Producción;VIDELA PABLO DANIEL
+195;CONVENIO PROTAMBO-SAN LUIS AGUA;-33,387426;-66,503706;Arena;San Luis;Producción;PROTAMBO S.A.
+196;EL CHACHO;-32,435938;-65,043443;Arena;San Luis;Producción;ROBERTO ULISES TRACCHIA
+197;LA CANTERITA;-33,708645;-65,462242;Arena;San Luis;Producción;BERNABEU JORGE FREDY
+198;LUCO I;-32,454365;-65,016452;Arena;San Luis;Producción;HERNANDEZ GREGORIO RAFAEL
+199;ENCAUZAMIENTO ARROYO EL TIGRE;-32,335996;-65,008743;Arena;San Luis;Producción;FERNANDEZ ROBERTO ANTONIO
+200;ENCAUZAMIENTO ARROYO EL TIGRE;-32,336093;-65,012291;Arena;San Luis;Producción;ZAPATA CRISTIAN MARCELO
+201;ENCAUZAMIENTO ARROYO EL TIGRE;-32,338909;-65,023621;Arena;San Luis;Producción;BURI ALDO JULIO
+202;POLO;-32,508748;-65,005830;Arena;San Luis;Producción;FIOCHETTA JOSE EMANUEL
+203;LEO;-33,872289;-65,207801;Arena;San Luis;Producción;ORLANDO LUIS EMMANUEL
+204;COSTA;-32,444630;-66,522877;Arena;San Luis;Producción;COSTA JOSE NORBERTO
+205;LA ESTHER;-32,524051;-65,029412;Arena;San Luis;Producción;CEBALLOS GONZALO SEBASTIAN
+206;ENCAUZAMIENTO ARROYO EL RINCON;-32,365511;-65,005567;Arena;San Luis;Producción;NOVA VIAL SRL
+207;HORMIGON MERCEDES IV;-33,704303;-65,459670;Arena;San Luis;Producción;HORMIGON MERCEDES S.A.
+208;Petrea I;-28,511513;-65,808399;Arena;Catamarca;Producción;D´Agostini Fernando Aquelino
+209;Áridos Catamarca;-28,553356;-65,788449;Arena;Catamarca;Producción;Soria Leiva Julio Ariel
+210;Francisco;-28,528454;-65,747455;Arena;Catamarca;Producción;Ollier Juan Alejandro
+211;Cantera B;-28,518550;-65,719704;Arena;Catamarca;Producción;Guido Moguetta Prevedello
+212;Áridos del Este;-28,512554;-65,710844;Arena;Catamarca;Producción;Llance Gonzalo Edgardo
+213;Ediciones SRL;-28,524838;-65,738812;Arena;Catamarca;Producción;Ediciones SRL
+214;Río Miraflores;-28,618847;-65,848719;Arena;Catamarca;Producción;Sucesión de  Guido Moguetta
+215;La Generosa;-28,735090;-66,005019;Arena;Catamarca;Producción;Fikinger, Martín Ricardo
+216;Ralu;-29,209078;-65,446965;Arena;Catamarca;Producción;Verdu Vicente Ricardo
+217;Don Raúl;-29,196712;-65,454736;Arena;Catamarca;Producción;De María Roman Maximiliano
+218;La Segunda Aconquija;-27,521774;-66,079765;Arena;Catamarca;Producción;Sucesión de Guido Moguetta
+219;Río El Bolsón;-27,001765;-66,745681;Arena;Catamarca;Producción;Sucesión de Guido Moguetta
+220;Río Yerba Buena;-26,944701;-66,728512;Arena;Catamarca;Producción;Sucesión de Guido Moguetta
+221;El Peti;-27,681112;-66,977911;Arena;Catamarca;Producción;Calabro, Atilio
+222;Aibar Selim;-27,655518;-67,015682;Arena;Catamarca;Producción;Aibar Selim Héctor
+223;Aibar Selim II;-27,548249;-67,026136;Arena;Catamarca;Producción;Aibar Selim Héctor
+224;Calabro;-27,661755;-67,013842;Arena;Catamarca;Producción;Calabro Renato Gabriel
+225;El Puesto;-26,695725;-66,028953;Arena;Catamarca;Producción;Parra Rodolfo
+226;Galaxy K;-25,350640;-66,858066;Arena;Catamarca;Producción;Galaxy Lithium S.A.
+227;Arena Fiambalá;-27,680848;-67,630726;Arena;Catamarca;Producción;Suc. Guido David Moguetta
+228;El Morro;-29,405580;-65,408257;Dolomía;Catamarca;Producción;El Cerrito S.R.L.
+229;Doña Amalia (Fáb. cemento Loma Negra);-28,469043;-65,251227;Caliza;Catamarca;Producción;Loma Negra Ciasa
+230;Quijo Huasi;-28,287519;-66,124479;Cuarzo;Catamarca;Producción;Krilo S.A.
+231;Carachi Pampa;-26,443780;-67,425980;Dolomía;Catamarca;Producción;"Ontario INC.; Crydon S.A."
+232;EL BARRIAL;-27,419286;-67,621320;Granulado volcánico;Catamarca;Producción;Bollecich Dardo Clemente-San Francisco
+233;Yacimiento Recro;-29,301047;-65,025452;Yeso;Catamarca;Producción;Minerales del Recreo  S.A.
+234;Los Búfalos;-29,152989;-65,051061;Yeso;Catamarca;Producción;La Pipa SRL
+235;Taco Pampa;-29,364092;-65,376359;Yeso;Catamarca;Producción;Pedro Cuberes -B. Balancini
+236;San Antonio;-28,946538;-64,968142;Yeso;Catamarca;Producción;Bigotti y Zanier SRL
+237;Cantera Cerro de la Madera;-33,664083;-64,962111;Triturados pétreos;Córdoba;Producción;Luciano SA
+238;Bringas I;-33,409456;-64,718917;Triturados pétreos;Córdoba;Producción;Bringas Juan Carlos
+239;Cantera Puente Islas Malvinas;-33,076722;-64,364250;Arena;Córdoba;Producción;El Gaucho SRL
+240;La Merced II;-33,056083;-64,367583;Arena;Córdoba;Producción;Marinelli SA
+241;Cantera German Paniego;-33,062247;-64,360642;Arena;Córdoba;Producción;Paniego German
+242;Planta La Chiquita;-33,056108;-64,380597;Arena;Córdoba;Producción;Bruno Hugo Andres
+243;Cantera Don Berto;-33,048750;-64,392250;Arena;Córdoba;Producción;Ingeniero Lunardi SRL
+244;Cantera Los Cocos;-32,476836;-64,685706;Dolomía;Córdoba;Producción;Establecimiento Minero Sofia SRL
+245;Cantera Los Molles;-32,470639;-64,316417;Triturados pétreos;Córdoba;Producción;Mirhanovich Cristo SRL
+246;Cantera Hernandez;-32,383486;-64,532503;Dolomía;Córdoba;Producción;ESTABLECIMIENTO MINERO SOFIA SRL
+247;Cantera El Molle;-32,367028;-64,534444;Dolomía;Córdoba;Producción;TOLEDO JULIO ARMANDO
+248;Planta El Quebracho II;-32,267556;-64,371333;Triturados pétreos;Córdoba;Producción;PAREDES OMAR DANIE
+249;Cantera y Planta de triturados El Salto;-32,246081;-64,356606;Triturados pétreos;Córdoba;Producción;ARIDOS SA
+250;Áridos San Francisco;-31,953361;-65,141278;Arena;Córdoba;Producción;CARNICER MIGUEL ANGEL
+251;Cantera Ctalamuchita II;-32,151000;-64,150778;Arena;Córdoba;Producción;BOCOS ALONSO
+252;Cantera Mercadal;-32,166917;-64,189139;Arena;Córdoba;Producción;MERCADAL SEBASTIAN RUBEN
+253;Cantera Lourdes;-32,068333;-64,422500;Triturados pétreos;Córdoba;Producción;PEREYRA RAMON ALBERTO
+254;Cantera San Agustin;-32,002889;-64,410667;Caliza;Córdoba;Producción;CANTERAS SAN AGUSTIN SRL
+255;Cantera y Planta Blancaley;-31,987889;-64,415667;Dolomía;Córdoba;Producción;MIGUEL CALDERON E HIJOS SA
+256;Cantera Fondomonte;-31,842472;-65,383667;Arena;Córdoba;Producción;FONDOMONTE SOUTH AMERICA SA
+257;Cantera El Alto;-31,739750;-64,394222;Arena;Córdoba;Producción;CANTERAS EL ALTO SRL
+258;Ripiera San Nicolas;-31,755250;-64,372278;Arena;Córdoba;Producción;RIPIERA SAN NICOLAS SA
+259;Cantera y Planta de triturados Xanaes I y II;-31,790278;-64,309425;Triturados pétreos;Córdoba;Producción;PEREYRA RAMON
+260;Cantera Susana;-31,803900;-64,275231;Arena;Córdoba;Producción;CANTERA SUSANA SA
+261;Cantera Rescala;-31,733672;-64,198228;Arena;Córdoba;Producción;RESCALA EDUARDO ENRIQUE
+262;Cantera Xanaes III;-31,704250;-64,159639;Arena;Córdoba;Producción;LA MARCHESINA SRL
+263;Cantera AM.PA.LU.MA;-31,609208;-63,724197;Arena;Córdoba;Producción;RUBEN GERMAN CHANQUIA
+264;Cantera SER-MAR;-30,975803;-64,136822;Arena;Córdoba;Producción;BOEZIO MARIA EMILIA
+265;Cantera Terra;-31,420889;-64,081250;Arena;Córdoba;Producción;ARCE FERNANDO WALTER
+266;Cantera Black Rock;-31,624472;-64,492083;Caliza;Córdoba;Producción;CANTERA BLACK ROCK SAS
+267;Cantera y Planta El Monumento;-31,560861;-64,333000;Arena;Córdoba;Producción;SERVING SRL
+268;Cantera Los Tres Hermanos;-31,224778;-63,462417;Arena;Córdoba;Producción;GOMEZ FRANCISCO ALEMIR
+269;Cantera Los Sauces;-31,272444;-63,544861;Arena;Córdoba;Producción;MARCHISONE SA
+270;Cantera Rosso;-31,343778;-63,556528;Arena;Córdoba;Producción;ROSSO ERALDO DANIEL
+271;Cantera Marchisone;-31,350908;-63,604169;Arena;Córdoba;Producción;MARCHISONE LORENZO OMAR
+272;Cantera San Nicolas;-31,494528;-64,378056;Triturados pétreos;Córdoba;Producción;CANTERAS SAN NICOLAS SRL
+273;Cantera y Planta de triturados Holcim Malagueño;-31,477444;-64,360639;Triturados pétreos;Córdoba;Producción;HOLCIM ARGENTINA SA
+274;Cantera Diquecito;-31,362361;-64,374917;Triturados pétreos;Córdoba;Producción;CANTERAS DIQUECITO SA
+275;Cantesur;-31,347453;-64,356981;Triturados pétreos;Córdoba;Producción;CANTESUR SA
+276;Serrano II;-31,327861;-64,326639;Triturados pétreos;Córdoba;Producción;CAMARASA ROBERTO FRANCISCO
+277;Cantera Laguna Verde;-31,325950;-64,324686;Triturados pétreos;Córdoba;Producción;Terra sa
+278;Cantera Dumesnil;-31,316039;-64,334536;Triturados pétreos;Córdoba;Producción;Cantera Dumesnil SA
+279;Canteras Amadeo;-31,098056;-64,317056;Triturados pétreos;Córdoba;Producción;CANTERAS AMADEO SRL
+280;Cantera El Rincon;-31,199358;-64,319108;Triturados pétreos;Córdoba;Producción;MOLIENDA EL RINCON SRL
+281;Cantera Ana María;-31,228869;-64,336389;Triturados pétreos;Córdoba;Producción;ALTOS DE CABANA SA
+282;Cantera El Simbolar;-30,435536;-63,973989;Triturados pétreos;Córdoba;Producción;MINERA SAN PEDRO SRL
+283;Cantera ZM;-29,917833;-63,763333;Triturados pétreos;Córdoba;Producción;ZANCHI MUÑOZ PABLO DARIO
+284;Cantera San Sebastián;-30,859500;-64,685222;Caliza;Córdoba;Producción;CANTERA SAN SEBASTIAN SRL
+285;Cantera Don Guillermo;-30,988222;-65,389444;Granito;Córdoba;Producción;VALENZUELA NEMECIO ARMANDO
+286;Cantera Don Alberto;-30,989944;-65,397444;Granito;Córdoba;Producción;OLIVEIRA CABALEIRO, JUAN MARTIN
+287;Cantera Tres Campanas;-31,156419;-64,591156;Caliza;Córdoba;Producción;GRUPO MINERO IMPERIO SA
+288;Cantera Arroyos Norte;-31,123722;-64,541028;Caliza;Córdoba;Producción;GOMEZ GUILLERMO DARIO
+289;Cantera El Gran Ombú;-31,275611;-64,335333;Triturados pétreos;Córdoba;Producción;EL GRAN OMBU SA
+290;Grupo minero Los Cerros Negros;-32,503847;-64,796333;Fluorita;Córdoba;Producción;Fluorita Cordoba SA
+291;Mina Samanta;-32,206944;-63,975694;Arcillas;Córdoba;Producción;Alfredo Pablo Gatti
+292;Cantera Los Condores;-32,370389;-64,352889;Triturados pétreos;Córdoba;Producción;BASALTO INDUSTRIAL Y COMERCIAL SRL
+293;Cantera Arcillas Mediterraneas;-30,570369;-64,557425;Arcillas;Córdoba;Producción;Arcillas Mediterraneas SA
+294;Cantera Palmar V;-31,402894;-64,071153;Arcillas;Córdoba;Producción;Palmar SA
+295;Cantera La Maga;-32,439306;-64,574139;Serpentinita;Córdoba;Producción;Fluorita Córdoba SA
+296;Salinas Grandes;-29,893167;-64,693250;Cloruro de sodio;Córdoba;Producción;La Industrial Salinera SA
+297;Salinas Grandes;-29,833222;-64,730167;Cloruro de sodio;Córdoba;Producción;VALDIVEZ DAVID CEFERINO
+298;Verdol;-31,634167;-64,400306;Carbonato de calcio;Córdoba;Producción;VERDOL SA
+299;PLANTA INDUSTRIAL SUSY SAL;-30,426528;-64,336306;Cloruro de sodio;Córdoba;Producción;EL RETUMBADERO SRL
+300;OWL;-43,1830556;-66,692792;Cuarzo;Chubut;Producción;OWL Mines And Oil S.A.
+301;Dique Ameghino;-43,6216056;-66,3808722;Arcillas;Chubut;Producción;Piedra Grande S.A.M.I.C.A y F
+302;Grecia;-43,6000972;-66,12484722;Arcillas;Chubut;Producción;Ceramica San Lorenzo I.C.S.A
+303;Margen Sur 04;-43,5590556;-66,12449444;Arcillas;Chubut;Producción;Minera Don antonio S.A.
+304;Leonetta I;-43,6461417;-66,23988611;Arcillas;Chubut;Producción;Barda Negra S.R.L
+305;Silvia I;-42,0704917;-71,53915;Turba;Chubut;Producción;Cía de Minas Magri S.A.
+306;El Escribano;-42,37158610;-66,3906111;Pórfido;Chubut;Producción;United Stone S.A.
+307;El Porvenir;-42,32456940;-66,21865833;Pórfido;Chubut;Producción;Patagonia Stone S.A.
+308;Tehuelche;-42,72889720;-65,89836944;Pórfido;Chubut;Producción;Techstone S.A. // Porphiris S.A.
+309;Colhue Huapi;-45,68701670;-68,77844444;Arenas silíceas;Chubut;Producción;Petroquimica ComodOro Rivadavia S.A
+310;La Celina;-45,34723610;-68,23489722;Yeso;Chubut;Producción;Petroquimica ComodOro Rivadavia S.A
+311;Tetas de Pineda;-45,09013890;-68,78033611;Caliza;Chubut;Producción;Petroquimica ComodOro Rivadavia S.A
+312;Solano Sur;-45,71690560;-67,37690833;Granulado volcánico;Chubut;Producción;Petroquimica ComodOro Rivadavia S.A
+313;El Cedro;-43,29555000;-65,25250556;Arena;Chubut;Producción;Constructora Vialpat S.R.L.
+314;Mailen;-43,32330280;-65,32716667;Arena;Chubut;Producción;Oscar Evans Quiliñan
+315;San Jorge;-45,78205280;-67,42126944;Arena;Chubut;Producción;Transportes Rada Tilly S.A.
+316;La Mimosa;-43,28729720;-65,02631111;Arena;Chubut;Producción;Aridos Fontana S.R.L.
+317;Puerto Lobos;-42,03049720;-65,06462500;Arena;Chubut;Producción;Aurelio Viegas Costa
+318;Agua Clara;-42,25885560;-71,34897500;Arena;Chubut;Producción;Dardo Horacio Villagran
+319;Sogiris;-42,73715560;-65,27847222;Arena;Chubut;Producción;Matias Dadam
+320;Loma Maria;-43,16989720;-65,26274722;Arena;Chubut;Producción;Sebastian Pelliciuoli
+321;Valle Hermoso;-45,73153330;-68,46230278;Arena;Chubut;Producción;Alberto Iñurrita
+322;La Recompensa;-42,93875830;-71,22501389;Arena;Chubut;Producción;Armando Suarez Caveri
+323;Solano Central;-45,67857500;-67,43657500;Arena;Chubut;Producción;Rigel S.A.
+324;San Ceferino;-42,53211390;-65,10901944;Arena;Chubut;Producción;Servial S.A.
+325;Baroni;-43,85253330;-67,98075556;Arena;Chubut;Producción;C N Sapag S.A.
+326;Enki;-42,62372500;-65,09148056;Arena;Chubut;Producción;Transportes Redondo S.A.
+327;La Nicolasa;-45,92415830;-71,37840000;Arena;Chubut;Producción;CPC S.A
+328;La Loma;-42,21323060;-71,40024444;Arena;Chubut;Producción;Yolanda Nelida Santillan
+329;Lepa;-42,59300000;-71,07222222;Arena;Chubut;Producción;Compañía de Tierras Sus Argentino S.A.
+330;Cerámica Garuhapé;-26,790973;-54,959021;Arcillas;Misiones;Producción;Cerámica Garuhapé
+331;Cerámica Garuhapé;-26,840234;-54,968025;Arcillas;Misiones;Producción;Cerámica Garuhapé
+332;HASSENRUCK, Aldo Omar;-26,854002;-54,015627;Arcillas;Misiones;Producción;HASSENRUCK, Aldo Omar
+333;SCHERF, Javier;-26,847195;-54,029475;Arcillas;Misiones;Producción;SCHERF, Javier
+334;Félix Scherf;-26,817593;-54,980041;Arcillas;Misiones;Producción;Félix Scherf
+335;Adolfo Graef;-26,878579;-54,98444;Arcillas;Misiones;Producción;Adolfo Graef
+336;GRAEF, Hugo E.;-26,849417;-54,981662;Arcillas;Misiones;Producción;GRAEF, Hugo E.
+337;Raúl García Macaya;-26,878615;-54,984378;Arcillas;Misiones;Producción;Raúl García Macaya
+338;Félix Scherf;-26,843831;-54,958616;Arcillas;Misiones;Producción;Félix Scherf
+339;Félix Scherf;-26,787965;-54,947082;Arcillas;Misiones;Producción;Félix Scherf
+340;Cerámica Garuhapé;-26,851551;-54,980864;Arcillas;Misiones;Producción;Cerámica Garuhapé
+341;Cerámica Garuhapé;-26,835274;-54,879931;Arcillas;Misiones;Producción;Cerámica Garuhapé
+342;Federico Javier Irschick;-26,819791;-54,935464;Arcillas;Misiones;Producción;Federico Javier Irschick
+343;Kleinubing, Rubén;-26,844302;-54,102765;Arcillas;Misiones;Producción;Kleinubing, Rubén
+344;Cerámica Brinzal SRL (Cantri);-27,475903;-55,778121;Arcillas;Misiones;Producción;Cerámica Brinzal SRL (Cantri)
+345;Cerámica Graef Bernardo;-26,907535;-54,970229;Arcillas;Misiones;Producción;Cerámica Graef Bernardo
+346;"Cantera ""Kuchaski""";-27,241667;-55,566667;Triturados pétreos;Misiones;Producción;"Cantera ""Kuchaski"""
+347;"Cantera ""Las Piedritas""";-27,505556;-55,450278;Triturados pétreos;Misiones;Producción;"Cantera ""Las Piedritas"""
+348;"Cantera ""San Martín""";-27,474669;-55,263577;Triturados pétreos;Misiones;Producción;"Cantera ""San Martín"""
+349;"Cantera KISAITI ""Martirez""";-27,433003;-55,409018;Triturados pétreos;Misiones;Producción;"Cantera KISAITI ""Martirez"""
+350;Cantera Don Luis;-27,393131;-56,015264;Triturados pétreos;Misiones;Producción;Cantera Don Luis
+351;"Cantera ""Nedel""";-26,810991;-55,018471;Triturados pétreos;Misiones;Producción;"Cantera ""Nedel"""
+352;"Cantera ""San Vicente""";-27,008867;-54,564719;Triturados pétreos;Misiones;Producción;"Cantera ""San Vicente"""
+353;Cantera Caballero A.;-27,128225;-55,470641;Triturados pétreos;Misiones;Producción;Cantera Caballero A.
+354;"Cantera ""San Miguel""";-27,089161;-55,299744;Triturados pétreos;Misiones;Producción;"Cantera ""San Miguel"""
+355;"Cantera ""Gonzalez Fernando""";-27,452313;-55,937781;Triturados pétreos;Misiones;Producción;"Cantera ""Gonzalez Fernando"""
+356;"Canteras ""Felmar S.R.L.""";-27,509218;-55,079896;Triturados pétreos;Misiones;Producción;"Canteras ""Felmar S.R.L."""
+357;"Cantera ""Minera Ruta 19""";-25,966485;-54,514851;Triturados pétreos;Misiones;Producción;"Cantera ""Minera Ruta 19"""
+358;"Cantera ""Ramirez""";-27,452631;-55,935168;Triturados pétreos;Misiones;Producción;"Cantera ""Ramirez"""
+359;"Cantera ""13""";-25,966509;-54,517278;Triturados pétreos;Misiones;Producción;"Cantera ""13"""
+360;"Cantera ""Eldorado S.A."" ";-26,366021;-54,626627;Triturados pétreos;Misiones;Producción;"Cantera ""Eldorado S.A."" "
+361;"Cantera ""Conorsa""";-27,582242;-55,850121;Triturados pétreos;Misiones;Producción;"Cantera ""Conorsa"""
+362;Cantera Bonpland;-27,505383;-55,453743;Triturados pétreos;Misiones;Producción;Cantera Bonpland
+363;Cantera Eldorado Campo San Juan;-27,415559;-55,604127;Triturados pétreos;Misiones;Producción;Cantera Eldorado Campo San Juan
+364;WEBER, Pedro;-27,746972;-55,773195;Triturados pétreos;Misiones;Producción;R y R Group SRL (El Nochero)
+365;Carlos E. Enriquez S.A.;-27,392192;-55,977771;Triturados pétreos;Misiones;Producción;Cantera Santa María
+366;De Paola, Gino;-27,662302;-55,371611;Triturados pétreos;Misiones;Producción;"Cantera ""GDP"""
+367;Perez, Lucio (Gerente);-27,548868;-55,662406;Triturados pétreos;Misiones;Producción;Cantera La Solita
+368;Apoderado: Ana Maria Basso del Pont;-27,473723;-55,669981;Triturados pétreos;Misiones;Producción;"Cantera ""Caminos del Mercosur S.R.L."""
+369;Carrasco Galaz, Nolberto;-25,966573;-54,518838;Triturados pétreos;Misiones;Producción;Cantera Chile
+370;Natalia Pamela Gonzalez;-27,453854;-55,940331;Triturados pétreos;Misiones;Producción;Cantera San Isidro II
+371;CHUKEL, Hormando;-26,362013;-54,623252;Triturados pétreos;Misiones;Producción;Cantera El sol sale para todos
+372;SACDE - Profundidad;-27,532372;-55,709976;Triturados pétreos;Misiones;Producción;Cantera Profundidad SACDE
+373;Cantera Municipalidad de Garupá;-27,579213;-55,855908;Triturados pétreos;Misiones;Producción;Cantera Municipalidad de Garupá
+374;Claudio Genovesio;-27,606441;-55,826133;Triturados pétreos;Misiones;Producción;Cantera JCR Parada Leis
+375;Diego Biancalani;-27,384651;-56,016183;Triturados pétreos;Misiones;Producción;Cantera La Estrella
+376;Simon Carlos Alberto;-27,075916;-54,883431;Triturados pétreos;Misiones;Producción;Cantera Simon
+377;Meili, Ricardo Omar;-26,536281;-54,778884;Triturados pétreos;Misiones;Producción;Cantera Municpal Montecarlo
+378;Don Adelmo SRL;-27,393028;-56,015051;Triturados pétreos;Misiones;Producción;Cantera Don Adelmo
+379;Ríos , Cesar Roman;-26,808768;-54,911034;Triturados pétreos;Misiones;Producción;Cantera Concretar SRL
+380;Bueno Juan Carlos;-27,482361;-55,437898;Triturados pétreos;Misiones;Construcción;Cantera Municipal Bonpland
+381;Carlos E. Enriques S.A.;-27,608422;-55,825654;Triturados pétreos;Misiones;Producción;Cantera Enrique SA Ruta Nac. 105
+382;Montania, Neris Martín;;;Arena;Misiones;Producción;Fortaleza SRL
+383;Pasiecznik Carlos;-27,4581836;-55,8127862;Arena;Misiones;Producción;ABC SRL
+384;Arenera Adolfo;-27,3300868;-55,5871;Arena;Misiones;Producción;Kalitko Alberto
+385;Benitez José Sebastian;;;Arena;Misiones;Producción;JAVDEN SRL
+386;WEPPLER Mariela;;;Arena;Misiones;Producción;WEPPLER Mariela
+387;Arenera Muniagurria;-27,3375749;-55,5885499;Arena;Misiones;Producción;Jorge Moniagurria
+388;Arenera del Paraná;-27,1486100;-55,5547200;Arena;Misiones;Producción;Hanania, Michel
+389;Arenera El Sol;-27,3742882;-55,9334421;Arena;Misiones;Producción;Julia Resek de Otormin
+390;Benitez, José Sebastián;;;Arena;Misiones;Producción;Arenera San Javier SRL
+391;Arenera Stockmanns ;-26,8204198;-55,0308278;Arena;Misiones;Producción;Stockmanns José
+392;Sartori Juan Pablo;;;Arena;Misiones;Producción;Sartori Juan Pablo
+393;Arenera Fontana;;;Arena;Misiones;Producción;Arenera Fontana
+394;Simon, Debora;-27,2663707;-55,5384169;Arena;Misiones;Producción;Arenera Don Juan
+395;Roberto Enriquez;-27,3292404;-55,5864823;Arena;Misiones;Producción;Arenera Misión Paraná
+396;Kisaiti - Klein;-27,3330647;-55,5875798;Arena;Misiones;Producción;Arenera CENTRO SRL
+397;Ivanoff, Roxana;;;Arena;Misiones;Producción;Arenera Ivanoff
+398;Bergallo, Maria Laura;-27,3597178;-55,9962805;Arena;Misiones;Producción;Arenera Don Faustino SRL
+399;Daniel Prado;;;Arena;Misiones;Producción;Atalaya Servicios Fluviales
+400;Arenera Kozlowski;-27,3404652;-55,5896783;Arena;Misiones;Producción;Kozlowski, Jorge Ramón
+401;Arenera Simon;-27,2915157;-55,5351579;Arena;Misiones;Producción;Juan Heraldo Simon
+402;Arcillas, Floresta;-24,822;-65,37;Arcillas;Salta;Producción;Ceramica Alberdi S.A.
+403;Canteras y otras;-38,543677;-69,940972;Dolomía;Neuquén;Producción;Ambar Compañía Minera S.A
+404;Canteras y otras;-38,727721;-70,263482;Caliza;Neuquén;Producción;Ambar Compañía Minera S.A
+405;Toribia ;-37,222607;-69,092699;Asfaltita;Neuquén;Producción;ASPHALTUM S.A.
+406;El Auque;-36,797086;-70,608795;Pirofilita;Neuquén;Producción;AZULAUQUEN S.A.
+407;Carmelo;-37,412721;-70,255141;Cloruro de sodio;Neuquén;Producción;
+408;Cateos;-38,948385;-68,697447;Arenas silíceas;Neuquén;Exploración inicial;YPF S.A.
+409;El Ceibo;-37,233333;-69,6;Potasio;Neuquén;Exploración avanzada;CanCambria Exploración
+410;El Choique;-37,610621;-69,319844;Cuarzo;Neuquén;Producción;El Choique SRL
+411;Alba1 y otras;-38,462445;-68,833506;Arenas silíceas;Neuquén;Exploración avanzada;Transporte Rada Tilly S.A.
+412;Susanita;-37,515621;-70,119697;Asfaltita;Neuquén;Exploración avanzada;Industria Cupríferas Latin Energy S.R.L.
+413;Cateos;-38,873272;-68,67987;Arenas silíceas;Neuquén;Exploración avanzada;CORMINE S.E.P.
+414;Cateos;-38,847655;-68,464813;Arenas silíceas;Neuquén;Exploración inicial;Productora Neuquina de Arenas S.A.S.
+415;Cateo;-37,386143;-69,04659;Arenas silíceas;Neuquén;Exploración inicial;SALAZAR ALCAIDE CHRISTIAN-SALAZAR HUMBERTO ANGEL
+416;Cateos;-38,765883;-68,631969;Arenas silíceas;Neuquén;Exploración inicial;SAPAG CARLOS SANTIAGO-PASTOR ROMERO RICARDO
+417;Cateo;-37,305301;-69,213499;Arenas silíceas;Neuquén;Exploración avanzada;MASIP JUAN FRANCISCO
+418;Cerros San Miguel El Carmen Los Pinos El Tarco San Cayetano;-24,96;-65,473;Caliza;Salta;Producción;Martinez Cerrano Ana Edith
+419;Semacova Cerro Amigo;-37,03427;-59,86208;Granito;Buenos Aires;Producción;Semacova S.A
+420;Vial Agro Cerro Amigo;-37,03259;-59,85649;Granito;Buenos Aires;Producción;Vial Agro S.A
+421;Vinci;-37,03006;-59,8603;Granito;Buenos Aires;Producción;Vinci Ingeniería Servicios y Tecnología S.A
+422;Cerro Azul;-37,06909;-59,92867;Granito;Buenos Aires;Producción;Constructora Dos Arroyos S.A
+423;El Peregrino;-37,06531;-59,95587;Granito;Buenos Aires;Producción;Cantera La Ponderosa S.A.
+424;Polo Minero;-37,06924;-60,05567;Granito;Buenos Aires;Producción;Polo Minero S.R.L
+425;Polo Minero Sector 1 Cantera 1;-37,06943;-60,06463;Granito;Buenos Aires;Producción;Eco Vía S.A.
+426;Cerro del Águila;-36,98657;-60,08631;Granito;Buenos Aires;Producción;Cerro del Águila de Olavarría S.A
+427;Puma;-36,98253;-60,07787;Granito;Buenos Aires;Producción;Adolfo Guerrico S.A.
+428;Águila Azul;-36,97835;-60,07418;Granito;Buenos Aires;Producción;LCE Canteras S.A.
+429;Ricardito;-37,04917;-59,99523;Granito;Buenos Aires;Producción;Ricardito del Centro S.R.L.
+430;Yacimiento Silvio;-36,97335;-60,08967;Granito;Buenos Aires;Producción;Cantera Piatti S.A.
+431;El Mojón;-36,99483;-60,10516;Granito;Buenos Aires;Producción;Canteras Cerro Redondo S.A
+432;El Relincho;-37,04802;-60,07836;Granito;Buenos Aires;Producción;Francisco Pereda y otras S.H.
+433;El Alomado;-37,07139;-59,69442;Granito;Buenos Aires;Producción;Canteras Yaraví S.A.
+434;Azul;-37,18418;-59,96555;Granito;Buenos Aires;Producción;Marengo S.A.I.C.I.F.
+435;La Barranca;-38,62938;-62,38278;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Maximiliano Cristián Barrios
+436;Bahía;-38,7502;-62,16095;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Luvial S.A.
+437;Cydind;-38,75555;-62,16094;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;C.Y.D.I.N.D S.A
+438;Espora;-38,70859;-62,14652;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Angel Francisco Mezquita
+439;La Veintiunmil;-38,55488;-62,31647;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Decavial S.A.I.C.A.C
+440;Las Dos Toscas;-38,62692;-62,41398;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Las Dos Toscas S.R.L
+441;Cerro La Tosca;-37,85703;-58,20922;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Juan José Ros y Patricio Ernesto Orsi
+442;Maccario;-37,8202;-58,20083;Granito;Buenos Aires;Producción;Pedro Maccario
+443;El Morro;-37,73686;-58,41893;Granito;Buenos Aires;Producción;Canteras Yaraví S.A.
+444;Yacimiento La María;-37,7513;-58,327;Granito;Buenos Aires;Producción;Cantera Yaraví S.A
+445;El Cristo;-37,75334;-58,5719;Granito;Buenos Aires;Producción;Compañía Minera El Destino S.A
+446;Napaleofú;-37,65868;-58,69731;Granito;Buenos Aires;Producción;Canteras Yaraví S.A.
+447;Pradvial;-38,11512;-58,25929;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Pradvial S.A.
+448;Bermeja;-37,67764;-59,26764;Arcillas;Buenos Aires;Producción;Monte Rojo S.A
+449;Citrus;-24,956;-65,474;Caliza;Salta;Producción;Carem S.R.L
+450;Canteras Arcamin;-37,628;-59,45297;Arcillas;Buenos Aires;Producción;Transportes Arcamin S.A.
+451;La Raquel;-37,62487;-59,44426;Arcillas;Buenos Aires;Producción;Juan José Leone
+452;La Elisa;-37,62413;-59,43906;Arcillas;Buenos Aires;Producción;Monte Rojo S.A.
+453;El Fortín;-37,6368;-59,42549;Arcillas;Buenos Aires;Producción;Sucesión Jorge A. Tagliorette
+454;Santa Teresita II;-37,63284;-59,50503;Arcillas;Buenos Aires;Producción;La Martelina S.R.L.
+455;Yacimiento Barker;-37,69047;-59,36266;Caliza;Buenos Aires;Producción;Loma Negra C.I.A.S.A.
+456;Don Pepe;-37,53029;-59,67835;Arcillas;Buenos Aires;Producción;Sucesión Jorge A. Tagliorette
+457;San Bernardo;-37,56764;-59,62789;Arcillas;Buenos Aires;Producción;Minera del Plata S.R.L.
+458;Canteras Brandsen S.R.L;-35,15737;-58,2596;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Canteras Brandsen S.R.L
+459;Cerámica Ctibor;-35,0419;-58,19123;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Cerámica Ctibor S.A
+460;Lagunas de Hudson;-35,1636;-58,05273;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Adalberto Ricardo Rasente
+461;Buklos S.R.L;-34,20829;-58,96515;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Buklos S.R.L
+462;LP I;-34,23697;-58,92108;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;La Pastoriza S.A
+463;LP II;-34,23029;-58,93143;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;La Pastoriza S.A
+464;Concaro;-34,17278;-59,04561;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Concaro Vial S.A
+465;El Morejón;-34,1912;-59,04794;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Alejandro Ignacio López
+466;Las Toscas de Campana;-34,21466;-58,99935;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Cantera Las Toscas de Campana S.A.
+467;Don Niceto;-34,21235;-59,0371;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Trans Plus S.R.L.
+468;Santa Rosa;-34,22923;-59,01004;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Almirante Irizar S.A
+469;San Ramón 1;-35,05193;-58,67085;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;South Patagonian S.A.
+470;Don Alberto;-34,91175;-58,64328;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Transporte Alberto de La Mata S.R.L
+471;Cantera Municipal;-34,14047;-59,73989;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Vialmani S.A
+472;Arroyo Gómez;-34,12415;-59,89682;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Vialmani S.A
+473;Nuestra Señora del Carmen;-34,34401;-59,83304;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Roberto Luis Torretta
+474;López;-34,41674;-59,81947;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;José Cartelone C.C.S.A. - Decavial S.A.I.C.A.C - Esuco S.A. UTE
+475;Sueiro;-34,48345;-60,00485;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Constructora Dos Arroyos S.A.
+476;Madazuma;-35,95714;-57,45276;Conchilla y/o coquina;Buenos Aires;Producción;Agropecuaria Madazuma S.R.L
+477;Vilches;-35,94577;-57,43721;Conchilla y/o coquina;Buenos Aires;Producción;Domingo Gonzalez y Cia S.A
+478;EGASA;-36,08398;-57,43011;Conchilla y/o coquina;Buenos Aires;Producción;Domingo Gonzalez y Cía. S.A
+479;La Pasionaria;-35,88043;-57,44667;Conchilla y/o coquina;Buenos Aires;Producción;Domingo Gonzalez y Cia S.A
+480;El Lenguaraz;-35,91534;-57,44676;Conchilla y/o coquina;Buenos Aires;Producción;Cristamine S.A.
+481;El Rincón;-35,79575;-57,40785;Conchilla y/o coquina;Buenos Aires;Producción;Vaher S.A.
+482;1 Homaq;-34,60156;-60,43742;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Homaq S.A - Const. Dos Arroyos S.A - UCSA S.A - UTE
+483;2 Homaq;-34,59542;-60,49154;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Homaq S.A - Const. Dos Arroyos S.A - UCSA S.A - UTE
+484;3 Homaq;-34,62003;-60,51941;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Homaq S.A - Const. Dos Arroyos S.A - UCSA S.A - UTE
+485;Don Perico;-35,50907;-58,03062;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Pedro Enrique Martínez
+486;Punto 2;-38,23961;-61,49685;Granito;Buenos Aires;Producción;Cantera Piatti S.A
+487;Siracusa;-38,88545;-61,99689;Arena;Buenos Aires;Producción;Santos y Horacio Siracusa S.H
+488;De La Iglesia;-38,89505;-61,98041;Arena;Buenos Aires;Producción;Andrés de la Iglesia
+489;La Martina;-38,87616;-62,03799;Arena;Buenos Aires;Producción;Carlos Alberto Messina
+490;El Chalet;-38,85572;-62,01225;Arena;Buenos Aires;Producción;Vanesa Elizabet Oberti
+491;Almirante Irizar II;-34,37418;-58,95441;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Almirante Irizar S.A
+492;Cantera La Victoria;-34,84801;-58,62229;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Cantera La Victoria S.A.
+493;Ezeiza;-34,86325;-58,6239;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Canteras del Gaucho S.A.
+494;Cerámicos Spegazzini;-34,89388;-58,60102;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Ladrillos Cerámicos Spegazzini S.A
+495;Losada;-38,11266;-58,14347;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Vialsa S.A
+496;Pangea I;-37,63005;-61,11737;Carbón;Buenos Aires;Exploración avanzada;Mario Osvaldo Rafael Tessone
+497;Pangea II;-37,50448;-61,30056;Carbón;Buenos Aires;Exploración avanzada;Mario Osvaldo Rafael Tessone, Santiago Gigola y Otros
+498;Tina;-34,9689;-58,79605;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Tina S.A.
+499;Tierra Morena;-34,8928;-58,86041;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Rubén Dario Dias
+500;Las Malvas;-36,44089;-56,9183;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Benito Roggio e Hijos S.A.
+501;Divisadero;-36,40603;-56,74303;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Benito Roggio e Hijos S.A.
+502;Dos Montes;-37,16417;-56,98925;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Daniel Emilio Cibert
+503;Arenera Querandí;-37,39064;-57,09809;Arena;Buenos Aires;Producción;Margarita Olegaria Arbelaiz
+504;Tosquera Manuel Pedro;-38,06684;-57,6372;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Nicolás M. y Pablo S. Do Carmo Pedro
+505;Arenera puerto Mar del Plata;-38,04988;-57,53274;Arena;Buenos Aires;Producción;Arenera puerto Mar del Plata S.R.L
+506;La Gloria;-38,0193;-57,69176;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Ermeg S.A
+507;Yacimiento La Florida;-38,01419;-57,69155;Cuarcita;Buenos Aires;Producción;Canteras Yaraví S.A.
+508;Palmar MdP Campo 14 Has;-38,02374;-57,67753;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Palmar Mar del Plata S.A.
+509;La Cerámica;-38,01902;-57,69542;Arena;Buenos Aires;Producción;Canteras Yaraví S.A.
+510;Dos Cerros;-38,03878;-57,68088;Cuarcita;Buenos Aires;Producción;Vialsa S.A
+511;San Francisco;-38,03601;-57,67977;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Vialsa S.A.
+512;Roal I;-38,04234;-57,68542;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Roal constructora, extractiva y agropecuaria S.R.L
+513;Yacimiento Minera;-38,02267;-57,73909;Cuarcita;Buenos Aires;Producción;Canteras Yaraví S.A.
+514;Yacimiento Petrea;-38,02511;-57,69683;Cuarcita;Buenos Aires;Producción;Canteras Yaraví S.A.
+515;Poggi;-38,02738;-57,6975;Cuarcita;Buenos Aires;Producción;Poggi Emprendimientos S.A
+516;Chacras del Oeste S.A;-34,68451;-59,05256;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Chacras del Oeste S.A.
+517;Cantera Santa Sofía;-34,66688;-58,99902;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Almirante Irizar S.A.
+518;La Bagatela;-34,75044;-58,99299;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Matías Francisco Elgue
+519;Arcillex;-34,53646;-58,60503;Arcillas;Buenos Aires;Producción;Arx Arcillex S.A
+520;Pous Peña;-36,7062;-57,23039;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;María Laura Pous Peña
+521;Zes Reservorio 4;-34,79541;-58,6923;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;CPC S.A. - Contreras Hnos. S.A.I.C.I.F.A.G. y M.
+522;Zes Reservorio 7;-34,88279;-58,65267;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;CPC S.A. - Contreras Hnos. S.A.I.C.I.F.A.G. y M.
+523;Tucumano;-34,95443;-57,88023;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Roque Antonio, Eduardo Américo y Andrea Margarita Juárez y Luisa Antonia Tejado
+524;Canteras del Plata;-34,95693;-57,86569;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;San-Vol Quilmes S.A
+525;Zambano IV;-34,9642;-57,87413;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Oscar Antonio Zambano S.A
+526;El ángel del sol naciente;-34,98451;-57,88624;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Rubén Oscar Tunici, Susana María Moscoloni y Nora Beatriz Tunici
+527;Romero;-34,94409;-58,0636;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Francisco José Palatino
+528;Cat Sur;-34,98443;-58,24206;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Manuel Da Silva Rego, José Loureiro Caridade, José Pereira Torres, Delfin Pereira Do Rego y Manuel Pereira Morgado
+529;Fanelli VI;-34,98048;-58,19754;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Trancefa S.A
+530;La Emilia;-34,98658;-58,18364;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Ranelagh Construcciones S.A
+531;Ctibor La Plata;-35,04095;-58,13342;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Cerámica Ctibor S.A
+532;Tosquera Etcheverry;-35,01224;-58,09784;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Cantera La Ponderosa S.A
+533;Fanelli IV y V;-35,15143;-58,01509;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Adalberto Rasente
+534;Elena;-37,72147;-60,94639;Carbón;Buenos Aires;Exploración avanzada;Barranca Sur Minera S.A
+535;Paraguil;-37,66596;-61,00903;Carbón;Buenos Aires;Exploración avanzada;Barranca Sur Minera
+536;Don Ramón;-35,85451;-57,91443;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;José Alberto Luciano
+537;El Tata;-38,4564;-58,30045;Arena;Buenos Aires;Producción;Doctor Tata S.A
+538;Las Tres Plantas;-38,49301;-58,44692;Arena;Buenos Aires;Producción;Ceache Servicios S.R.L
+539;Don José;-38,53434;-58,57775;Arena;Buenos Aires;Producción;Cantera Don José S.R.L
+540;Monviso Forestal;-38,54481;-58,57457;Arena;Buenos Aires;Producción;Logimaq del Sur S.A.
+541;San Manuel I;-37,7764;-58,88229;Arcillas;Buenos Aires;Producción;Minera Malaquita S.A.
+542;La Vizcachera;-37,7749;-58,91458;Arcillas;Buenos Aires;Producción;Quimicera Especialidades S.A.
+543;Manolo;-37,78442;-58,88563;Arcillas;Buenos Aires;Producción;Juan M. Ros y Sebastian F. Ros S.H
+544;Los Cinco Nietos;-37,76865;-58,91037;Arcillas;Buenos Aires;Producción;Cedies S.A
+545;La Elvira;-37,79098;-59,0484;Arcillas;Buenos Aires;Producción;Verellen Construcciones S.R.L.
+546;Olivera;-34,62639;-59,23673;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Sebastián Rasente
+547;Tres Espigas II;-34,51544;-59,1222;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Adalberto Rasente
+548;Los Brunos II;-34,52377;-59,12432;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Darío Germán y Carlos Javier Zaia
+549;Los Brunos III;-34,52544;-59,12308;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Hijos de Brunos Zaia S.R.L
+550;Lomas de Carlos Keen;-34,49325;-59,15797;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Grounds Vial S.A.
+551;El Páramo;-35,17563;-57,35401;Conchilla y/o coquina;Buenos Aires;Producción;El Páramo S.R.L
+552;San José;-35,05534;-57,59955;Conglomerado calcáreo;Buenos Aires;Producción;Daniel Alberto Mielke
+553;Urrutia;-36,76348;-57,25551;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Ricardo Alberto Urrutia
+554;Nicolás Vignogna III;-34,91311;-58,70607;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Victoria Pascuala Pace Polini de Vignogna y Otros
+555;Rasente;-34,65255;-59,29887;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Adalberto Ricardo Rasente
+556;Zes Reservorio I;-34,75671;-58,74715;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Sociedad Argentina de Construcción y Desarrollo Estrátegico S.A.
+557;Vial El Lago S.A.S;-35,36964;-58,84119;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Vial El Lago S.A.S
+558;Monte I;-35,4309;-58,85841;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;SACDE Sociedad Argentina de Construcción y Desarrollo Estratégico S.A.
+559;Tanoira;-35,53312;-58,83011;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;SACDE Sociedad Argentina de Construcción y Desarrollo Estratégico S.A.
+560;Punta Florida;-38,65101;-58,95753;Arena;Buenos Aires;Producción;Punta Florida S.A.
+561;Carin II;-37,74289;-59,24847;Arcillas;Buenos Aires;Producción;Transporte Arcamin S.A.
+562;El Canario;-37,73758;-59,24247;Arcillas;Buenos Aires;Producción;Monte Rojo S.A.
+563;La Horqueta;-38,12481;-59,31876;Yeso;Buenos Aires;Producción;Mineraltry S.A.S
+564;La Negrita;-38,46391;-58,77263;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Ferticam S.A
+565;La Gauchita;-38,48463;-58,77647;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Logística Transportadora S.A
+566;La Colorada;-38,50335;-58,76252;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Ferticam S.A
+567;Don Andrés;-38,51921;-58,82824;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Walter Andrés Esbensen
+568;Los Dos Mosqueteros;-38,61762;-58,85222;Arena;Buenos Aires;Producción;Big Clean S.A.S.
+569;La Ana Rita;-36,77002;-60,30568;Granito;Buenos Aires;Producción;La Ana Rita S.A.
+570;La Camila;-36,82534;-60,31159;Granito;Buenos Aires;Producción;Cantera Tandileofú S.A.
+571;Occhi;-36,83842;-60,26227;Granito;Buenos Aires;Producción;Genaro y Andrés De Stefano S.A.
+572;Cantera Calello;-36,83812;-60,25545;Granito;Buenos Aires;Producción;Calello Hermanos S.A
+573;Canteras Unidas de Sierra Chica;-36,8426;-60,24948;Granito;Buenos Aires;Producción;Galasur S.A
+574;Petrone;-36,82674;-60,26148;Granito;Buenos Aires;Producción;Granito Serrano S.A
+575;San Andrés;-36,9687;-60,22529;Arcillas;Buenos Aires;Producción;Cementos Avellaneda S.A.
+576;La Alcancia I;-36,97608;-60,20681;Arcillas;Buenos Aires;Producción;Alfredo Rúben Pezzucchi
+577;Las Piedras;-36,91581;-60,21051;Granito;Buenos Aires;Producción;Sucesión Ambrosio Colombo S.R.L.
+578;Nueva Cantera Sierras Bayas;-36,90749;-60,20435;Granito;Buenos Aires;Producción;Minera Tandil S.A
+579;Minerales Argentinos S.A.;-36,92585;-60,20992;Granito;Buenos Aires;Producción;Minerales Argentinos S.A
+580;Cerro Lindo;-36,94451;-60,19522;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Transsuelo S.A
+581;Villa Mónica;-36,90715;-60,14336;Granito;Buenos Aires;Producción;Adolfo Guerrico S.A.
+582;San Cayetano (Ex Peñacal);-36,92742;-60,13958;Dolomía;Buenos Aires;Producción;Cooperativa de Trabajo Olavarría LTDA
+583;Piatti;-36,96564;-60,10202;Granito;Buenos Aires;Producción;Cantera Piatti S.A
+584;La Preferida;-36,96771;-60,10833;Granito;Buenos Aires;Producción;Loma Negra C.I.A.S.A
+585;Piedras del Cerro;-36,9874;-60,10292;Granito;Buenos Aires;Producción;Piedras del Cerro S.A
+586;Cerro Redondo;-36,96124;-60,178;Granito;Buenos Aires;Producción;Canteras Argentinas S.A
+587;Yacimiento La Escondida;-36,96526;-60,18472;Granito;Buenos Aires;Producción;Canteras Cerro Redondo S.A
+588;Losa;-36,9745;-60,18845;Arcillas;Buenos Aires;Producción;Canteras Cerro Negro S.A.
+589;Sarmiento;-36,98007;-60,1851;Arcillas;Buenos Aires;Producción;Compañía Industrial Buglione y Martinese Hermanos S.A.
+590;Don Federico (I);-36,98422;-60,17981;Arcillas;Buenos Aires;Producción;Canteras Cerro Negro S.A.
+591;Estancia San Jacinto;-37,00263;-60,19521;Arcillas;Buenos Aires;Producción;Supercal S.A.
+592;Calvú;-37,00091;-60,18523;Arcillas;Buenos Aires;Producción;Canteras Cerro Negro S.A.
+593;Don Antonio;-37,00272;-60,18291;Arcillas;Buenos Aires;Producción;Supercal S.A.
+594;Don Antonio I;-36,99946;-60,18214;Caliza;Buenos Aires;Producción;Cementos Avellaneda S.A.
+595;Alicia;-37,02786;-60,33228;Arcillas;Buenos Aires;Producción; Cementos Avellaneda S.A.
+596;El Hormiguero;-36,99864;-60,2455;Granito;Buenos Aires;Producción;Materser S.A.
+597;La Cabañita;-36,99203;-60,21911;Caliza;Buenos Aires;Producción;Cementos Avellaneda S.A
+598;Materiales San Fernando S.A.;-37,09474;-60,15172;Granito;Buenos Aires;Producción;Materiales San Fernando S.A.
+599;La Pampita;-37,03755;-60,26554;Caliza;Buenos Aires;Producción;Loma Negra C.I.A.S.A.
+600;D-6;-36,92456;-60,14614;Dolomía;Buenos Aires;Producción;Polcecal S.A.
+601;D-7 y D-8;-36,92564;-60,14367;Dolomía;Buenos Aires;Producción;Cruz Omar Pavone S.R.L.
+602;D-9;-36,92486;-60,14456;Dolomía;Buenos Aires;Producción;Frente Oeste S.A.
+603;D-3;-36,93262;-60,14077;Dolomía;Buenos Aires;Producción;Frente Oeste S.A.
+604;D-4;-36,9281;-60,14119;Dolomía;Buenos Aires;Producción;Frente Oeste S.A. UTE
+605;D-5;-36,92899;-60,14155;Dolomía;Buenos Aires;Producción;Polcecal S.A.
+606;D-1;-36,93672;-60,14464;Dolomía;Buenos Aires;Producción;Polcecal S.A.
+607;D-2;-36,93489;-60,14194;Dolomía;Buenos Aires;Producción;Cruz Omar Pavone S.R.L.
+608;12 de Octubre (2);-36,93183;-60,15459;Arcillas;Buenos Aires;Producción;  Ricardo Juan Aust
+609;La Teresa;-36,92624;-60,17804;Dolomía;Buenos Aires;Producción;Rubén Dario Escaig
+610;Los Chicos;-36,92291;-60,16177;Arcillas;Buenos Aires;Producción;Canteras Cerro Negro S.A.
+611;C-1 y C-2;-36,92722;-60,15975;Caliza;Buenos Aires;Producción;Polcecal S.A.
+612;C-3;-36,92751;-60,15623;Caliza;Buenos Aires;Producción;Polysan S.A
+613;Aluminé;-40,57682;-62,6745;Cloruro de sodio;Buenos Aires;Producción;Recasal S.R.L.
+614;Buenos Aires;-40,57508;-62,66609;Cloruro de sodio;Buenos Aires;Producción;Juan José Pereiro
+615;Costa Norte;-39,94085;-62,34068;Arena;Buenos Aires;Producción;Ulises G. Smith
+616;Norte Villalonga;-40,00137;-62,33996;Arena;Buenos Aires;Producción;Alberto Fernandez
+617;Pungaloni II;-40,10862;-62,34889;Arena;Buenos Aires;Producción;Leonardo R. Pungaloni
+618;Hormi White;-40,1801;-62,34803;Arena;Buenos Aires;Producción;Hormiwhite S.A.
+619;SACDE;-33,94698;-60,3962;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Sociedad Argentina de Construcción y Desarrollo Estratégico S.A.
+620;Comansir;-33,95016;-60,64781;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Rovella Carranza S.A.
+621;La Paloma;-34,49465;-58,96727;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Emprendimientos H. Ricardo Elliot S.A.
+622;2 de Abril;-35,57213;-57,27657;Conchilla y/o coquina;Buenos Aires;Producción;Codiamon S.A
+623;Cruz del Sur;-35,53866;-57,38442;Conchilla y/o coquina;Buenos Aires;Producción;Codiamon S.A.
+624;El Sacrificio;-35,7035;-57,36705;Conchilla y/o coquina;Buenos Aires;Producción;Domingo González y Cía S.A.
+625;Costa Ramallo;-33,44672;-60,06882;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;D´Almeida Bico Hnos. S.A
+626;Cantera Ramallo;-33,4652;-60,16514;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;D'Almeida Bico Hermanos S.A.
+627;Las Moras;-37,61839;-62,48317;Cuarcita;Buenos Aires;Producción;Cantera Pigüe S.A
+628;Pigüe;-37,63952;-62,45597;Cuarcita;Buenos Aires;Producción;Cantera Pigüe S.A
+629;Siste;-34,28845;-60,27365;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Rúben Angel y Omar Emilio Siste
+630;San Alberto;-34,46441;-59,54967;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Lidia Adela Pozzebon
+631;Azcuenaga;-34,3284;-59,37948;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;María del Carmen Monserrat Leonor García
+632;Costa;-34,45486;-59,69488;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;J.C. Construcciones Civiles S.A - Decavial S.A.I.C.A.C - Esuco S.A - UTE
+633;Los Arroyos;-34,2904;-59,42803;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Áridos Pampeanos del Norte S.A.S
+634;Estancia La Gloria;-34,05716;-59,31327;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Coviarsa S.A.
+635;San José;-34,26331;-59,41722;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Sacde S.A
+636;D´Almeida Bico;-33,41246;-60,19318;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;D´Almeida Bico Hnos. S.A
+637;Agus-Mar;-33,71596;-59,63504;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Norberto Martín Iglesias
+638;Tosquera Mocoretá;-33,72015;-59,62797;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Tosquera Río Parana S.A.
+639;Bajo del Tala;-33,73883;-59,6158;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Eligio Biscia S.R.L
+640;Domselaar;-35,08686;-58,29149;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Octan Win S.A.
+641;Zes Reservorio San Vicente;-34,94744;-58,34855;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;CPC S.A. - Contreras Hnos. S.A.I.C.I.F.A.G. y M.
+642;Kelly;-34,75719;-59,57582;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;CCA Green B S.A.
+643;4 Ases;-34,74683;-59,68888;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Juan Aníbal Price
+644;Tandileofú;-37,3557;-58,95505;Granito;Buenos Aires;Producción;Cerros Domicos S.A
+645;San Luis;-37,36735;-58,97339;Granito;Buenos Aires;Producción;Minera Tandil S.A.
+646;Don Camilo;-37,69437;-59,14636;Arcillas;Buenos Aires;Producción;Camilo Rúben Castro
+647;Los Charitos;-37,26201;-59,16387;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Caminos Serranos S.R.L.
+648;Cantera Municipal de Tandil;-37,32101;-59,21674;Granito;Buenos Aires;Producción;Cooperativa Integral de Provisión de Servicios Públicos de Tandil Limitada
+649;Tartagal;-37,30859;-59,26938;Granito;Buenos Aires;Producción;Equimac S.A.
+650;Jotace2;-36,57452;-57,3861;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Vial Norcar S.R.L.
+651;Minujín;-38,33033;-62,29587;Mica;Buenos Aires;Producción;Luis A. y Agustín A. Minujín
+652;Cerros Colorados;-38,06976;-62,4728;Granito;Buenos Aires;Producción;Piro y Ruiz S.C.A
+653;Tres Picos;-38,20724;-62,13567;Cuarcita;Buenos Aires;Producción;Decavial S.A.I.C.A.C
+654;Arenera Claromecó;-38,84057;-60,0061;Arena;Buenos Aires;Producción;Horacio Raúl Lachat
+655;La Choza del Arcobaleno;-38,79036;-59,731;Arena;Buenos Aires;Producción;Alberto Mújica
+656;Salinas Chicas;-38,76014;-62,92966;Cloruro de sodio;Buenos Aires;Producción;La Aurora S.A.I.C y G
+657;La Tricolor;-38,78933;-62,80875;Arena;Buenos Aires;Producción;J.K. Transportes S.A.
+658;Dottori I;-38,8116;-62,84149;Arena;Buenos Aires;Producción;Depósito Dottori S.R.L
+659;Arenera Roque;-38,81576;-62,73556;Arena;Buenos Aires;Producción;Roque Guillermo A. y Miguel Roque S.H.
+660;El Jabalí;-38,81349;-62,74983;Arena;Buenos Aires;Producción;Servicios HLB S.A.
+661;Cat-Vial;-38,81825;-62,74781;Arena;Buenos Aires;Producción;Cat-Vial S.A
+662;Don Julio Sandrini;-38,81711;-62,52525;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Julio Sandrini
+663;Las Barrancas;-38,74356;-62,97589;Cloruro de sodio;Buenos Aires;Producción;Salina Las Barrancas S.A.I.C
+664;Estancia El Marne;-34,15282;-59,04325;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Transportes César Obras Viales y Civiles S.R.L
+665;Cargtier VIII;-34,17247;-59,07141;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Cargtier S.R.L
+666;Los Álamos;-34,14926;-59,14926;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Omar Alberto Mazzei
+667;Chacras de Zárate;-34,18283;-59,09893;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;C&E Construcciones S.A
+668;La Estrella;-34,13708;-59,12719;Suelos seleccionados/tosca/greda;Buenos Aires;Producción;Jose Luis Carlisano
+669;El Ucu;-23,511;-66,242;Elementos de Tierras Raras (óxidos) (REE);Salta;Exploración inicial;Astrali S.A.
+670;Estrella del Oriente;-23,456;-66,187;Elementos de Tierras Raras (óxidos) (REE);Salta;Exploración inicial;Cañizares Bibiana Claudia, Cañizares Mario Alberto
+671;Fernanda (Niño);-23,891;-66,249;Arcillas;Salta;Producción;Nuñez Ramon
+672;La Candelaria;-24,91;-65,402;Arcillas;Salta;Producción;Ceramica del Norte S.A
+673;La Isla;-24,885;-65,388;Arcillas;Salta;Producción;Ceramica del Norte S.A
+674;Mi Esperanza;-24,966;-65,475;Caliza;Salta;Producción;-
+675;Plateria;-23,538;-66,238;Elementos de Tierras Raras (óxidos) (REE);Salta;Exploración inicial;Astrali S.A.
+676;Quiron;-24,414;-66,847;Perlita;Salta;Producción;Viento Blanco S.R.L
+677;Ramadas;-24,15;-66,331;Perlita;Salta;Producción;Imerys Minerales Argentina S.A.
+678;Rangel;-23,565;-66,244;Elementos de Tierras Raras (óxidos) (REE);Salta;Exploración inicial;Astrali S.A.
+679;Rupasca;-24,442;-66,437;Perlita;Salta;Producción;Imerys Minerales Argentina S.A.
+680;Santa Elena;-24,83;-66,337;Nb (óxido);Salta;Exploración inicial;Vittone Hector Felix
+681;Santa Elena;-24,973;-65,467;Caliza;Salta;Producción;-
+682;Las Bayas (Nirihuau);-41,59045;-71,01541;Carbón;Rio Negro ;Exploración inicial;Trendix S.A
+683;Río Turbio;-51,53556;-72,28222;Carbón;Santa Cruz ;Producción;YACIMIENTOS CARBONIFEROS RIO TURBIO S.A.
+684;Abra Colorada;-22,462;-65,141;Baritina;Salta;Prospección;Condor Prospecting S.A.
+685;Don Alberto,Puca Aypa San Cayetano Maria Marquesa;-22,27;-64,978;Baritina;Salta;Exploración inicial;Condor Prospecting S.A.
+686;Patito;-24,841;-66,714;Boratos (B2O3);Salta;Producción;Minera Santa Rita S.R.L
+687;Sijes;-24,618;-66,67;Boratos (B2O3);Salta;Producción;Borax Argentina S.A
+688;Tincalayu;-25,267;-67,056;Boratos (B2O3);Salta;Producción;Borax Argentina S.A
+689;Potasio Río Colorado (Prc);-37,10333 ;-69,32528 ;Potasio;Mendoza;Construcción;POTASIO RIO COLORADO SA
+690;Potasio Neuquén;-37,428296;-69,225987;Potasio;Neuquén;Prefactibilidad;Bunge Minera S.A. - Servicios de Minería S.A.
+691;Grupo Minero BOroquimica;-23,4848236;-66,6642622;Boratos (B2O3);Jujuy;Producción;Borax Argentina S.A
+692;Guayatayoc;-23,3466376;-65,8549128;Boratos (B2O3);Jujuy;Producción;Losi Luis S.A
+693;Cilon;-23,3980050;-66,9954921;Boratos (B2O3);Jujuy;Producción;Zeballos Oscar Adolfo
+694;Cantera Barcena;-23,9112638;-65,4668608;Caliza;Jujuy;Producción;Suc. de Carlos Martin Jaime Barcena
+695;Cantera Puesto Viejo;-24,5039563;-64,9404148;Caliza;Jujuy;Producción;Holcim Argentina S.A
+696;Puesto Viejo UV;-24,4898490;-64,9575202;Caliza;Jujuy;Producción;Holcim Argentina S.A
+697;Mina Puma Norte;-22,2922746;-65,6055750;Relaves;Jujuy;Producción;Bragantini Jorge Alberto
+698;Salinas Grandes;-23,6515884;-65,8585966;Cloruro de sodio;Jujuy;Producción;Coop. de Trabajo minero Aborigen Cachi del Chincho LTDA
+699;Salinas Grandes;-23,6558526;-65,9329787;Cloruro de sodio;Jujuy;Producción;Yea Rin Wu
+700;Jeremias 1;-24,0002884;-64,1754901;Yeso;Jujuy;Producción;Foray Rosa Maria, Infante Gabriel Alberto e Infante María del Valle (compañía Minera Urkupiña)
+701;Cantera Garzon;-24,5619277;-65,0774027;Triturados pétreos;Jujuy;Producción;Jose Cartellone Construcciones Civiles S.A
+702;Cantera La Quinta;-23,8968658;-64,4741851;Arena;Jujuy;Producción;Viramonte Iturriza German Maria
+703;Zeolita II;-30,2554805;-69,321833;Zeolita;La Rioja;Prospección;EMSE
+704;Teo;-29,2869361;-68,42756944;Grafito;La Rioja;Prospección;Aguilar Grafito
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
